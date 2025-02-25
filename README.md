@@ -1,3 +1,4 @@
 # mycollege-demo
 This is my first Git repository.
-Author - Nabina Rai
+Author - Nabina Raii
+
